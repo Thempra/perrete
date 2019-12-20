@@ -1,0 +1,10 @@
+# Telegram
+TG_TOKEN = 'xxxxxxxxx:XXXXXX-XXXXXXXXXXXXXXXXXXX'
+
+# Mail
+SMTP_ADDRESS='smtp.gmail.com'
+SMTP_PORT='587'
+SMTP_MAIL='your_email@gmail.com'
+SMTP_USER='your_email@gmail.com'
+SMTP_PASSWORD="your_password"
+MAIL_TO='destination@mail.com'
