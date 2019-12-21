@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 import telegram
 from telegram.ext import Updater
